@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Raw UCI files (re-downloadable from archive.ics.uci.edu)
+data/adult.data
+data/adult.test
+data/adult.names
+
+# Logs / scratch
+results/ga_log.txt
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
